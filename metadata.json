@@ -1,0 +1,6 @@
+{
+  "name": "Connecteo — Tableau de bord formateur & Rapport client",
+  "description": "Tableau de bord formateur Connecteo pour l'import de résultats, le suivi des observations et la génération de rapports clients narratifs avec graphiques interactifs et analyses automatisées.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
